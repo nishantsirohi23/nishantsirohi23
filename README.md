@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at [http://www.nishantsirohi.ml](http://www.nishantsirohi.ml)
+- 👨‍💻 All of my projects are available at [http://www.nishantsirohi.ml](http://www.nishantsirohi.me)
 
 - 💬 Ask me about **react , python , tensor flow and flutter**
 
